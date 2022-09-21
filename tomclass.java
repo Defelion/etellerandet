@@ -1,5 +1,5 @@
-public static tomclass {
-	public static void main (String[] args){
+public class tomclass {
+	public static void main(String[] args) {
 
 	}
 }
